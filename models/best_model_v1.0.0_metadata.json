@@ -1,0 +1,20 @@
+{
+  "model_name": "best_model",
+  "version": "1.0.0",
+  "training_date": "2025-12-18T12:42:00.790804",
+  "model_type": "LogisticRegression",
+  "metrics": {
+    "accuracy": 0.6225,
+    "precision": 0.5644891122278057,
+    "recall": 0.4050480769230769,
+    "f1_score": 0.4716585024492652,
+    "roc_auc": 0.6800744204425713
+  },
+  "hyperparameters": {
+    "max_iter": 1000,
+    "random_state": 42
+  },
+  "original_model_name": "logistic_regression",
+  "test_samples": 2000,
+  "num_features": 46
+}

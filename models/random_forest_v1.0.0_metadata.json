@@ -1,0 +1,18 @@
+{
+  "model_name": "random_forest",
+  "version": "1.0.0",
+  "training_date": "2025-12-18T12:41:55.292558",
+  "model_type": "RandomForestClassifier",
+  "metrics": {
+    "cv_accuracy": 0.62825,
+    "cv_f1_score": 0.6107759653220011,
+    "cv_roc_auc": 0.670701149775347
+  },
+  "hyperparameters": {
+    "n_estimators": 100,
+    "max_depth": 20,
+    "random_state": 42
+  },
+  "training_samples": 8000,
+  "num_features": 46
+}
